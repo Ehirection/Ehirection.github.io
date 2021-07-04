@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome！欢迎！
 
-You can use the [editor on GitHub](https://github.com/Ehirection/Ehirection.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+*~~真是无聊的欢迎语...~~*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+八方！如您所见这是一款游戏！
 
-### Markdown
+太好了终于有游戏玩了，我真是迫不及待了！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**但是！**
 
-```markdown
-Syntax highlighted code block
+这是一个**音游**！！！
 
-# Header 1
-## Header 2
-### Header 3
+太好了我就要玩音游！！
 
-- Bulleted
-- List
+但是没有32位版本！也没有手机版本！更没有Mac OS或者Linux版本！！！
 
-1. Numbered
-2. List
+~~*不！！！！我是手机虚拟机32位Linux和MacOS双系统用户——*~~
 
-**Bold** and _Italic_ and `Code` text
+### 下载
 
-[Link](url) and ![Image](src)
-```
+屏幕上方就有，除非你看不懂。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+下载稳定版本：[StabelVersion](https://github.com/Timeemit-2017/Ehirection/archive/refs/heads/main.zip)
 
-### Jekyll Themes
+下载最新测试版本：[DeveLopVersion](https://github.com/Timeemit-2017/Ehirection/archive/refs/heads/dev.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ehirection/Ehirection.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Github界面：[Ehirection](https://github.com/Timeemit-2017/Ehirection/)
 
-### Support or Contact
+### 安装
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+解压缩。
+
+### 关于我
+
+要给项目提建议直接提交issue即可
+QQ号：1185557481 不过QQ我不常上
+
+邮箱：litianli123456@126.com
+
